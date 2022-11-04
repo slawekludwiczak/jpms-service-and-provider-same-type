@@ -22,11 +22,6 @@
             <artifactId>api</artifactId>
             <version>${project.version}</version>
         </dependency>
-        <dependency>
-            <groupId>pl.javastart</groupId>
-            <artifactId>provider</artifactId>
-            <version>${project.version}</version>
-        </dependency>
     </dependencies>
 
 </project>
